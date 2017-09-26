@@ -26,4 +26,3 @@ function iLoveTheBeatles(number){
   }while(i<number)
   return array
 }
-
